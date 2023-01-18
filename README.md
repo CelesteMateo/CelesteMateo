@@ -1,16 +1,14 @@
-### Hi there 👋
+Hola! Soy Celeste Mateo, programadora Fullstack. Desde pequeña me ha interesado el mundo del desarrollo web y a partir de la pandemia mundial porel covid y por obvias cuestiones laborales me vi en la oportunidad de poder adentrarme en esto a traves de Henry.
 
-<!--
-**CelesteMateo/CelesteMateo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente me dedico a realizar proyectos individuales que me permitan avanzar en mi desarrollo profesional y obtencion de un empleo afin.
 
-Here are some ideas to get you started:
+Como tecnologias uso:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-JavaScript
+-Node JS
+-SQL
+-React
+-Redux
+-Express
+-Sequelize
+-CSS
